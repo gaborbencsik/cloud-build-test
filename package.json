@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/gaborbencsik/cloud-build-test#readme",
   "dependencies": {
-    "firstline": "^2.0.2",
     "jest": "^25.1.0"
   }
 }
