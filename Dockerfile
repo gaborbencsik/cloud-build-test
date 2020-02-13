@@ -1,7 +1,7 @@
 FROM node:10.16.3
 
-RUN npm i
+COPY . .
 
-RUN ls -lah
+RUN npm i
 
 RUN npm t
