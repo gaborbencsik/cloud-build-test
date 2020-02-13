@@ -1,0 +1,23 @@
+{
+  "name": "cloud-build-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaborbencsik/cloud-build-test.git"
+  },
+  "author": "bencso",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gaborbencsik/cloud-build-test/issues"
+  },
+  "homepage": "https://github.com/gaborbencsik/cloud-build-test#readme",
+  "dependencies": {
+    "firstline": "^2.0.2",
+    "jest": "^25.1.0"
+  }
+}
