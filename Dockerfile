@@ -1,8 +1,6 @@
-FROM node:10.16.3
+FROM node:10.16.3-slim
 
 COPY . .
-
-RUN ls -lah
 
 RUN npm i
 
