@@ -4,3 +4,4 @@ services:
     image: hashicorp/terraform:0.12.20
     volumes:
       - .:/tmp
+    working_dir: /tmp
